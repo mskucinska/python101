@@ -49,8 +49,8 @@ Słownik Pythona
         **Zawierania**: in, not in;
         **Porównania**: ==, >, <, <>, <=, >= != (jest różne).
 
-        Operator * rozpakowuję listę paramterów przekazaną funkcji.
-        Operator ** rozpakuje słownik.
+        Operator * rozpakowuje listę paramterów przekazaną funkcji.
+        Operator ** rozpakowuje słownik.
 
     lista
         jedna z podstawowych struktur danych, indeksowana sekwencja takich samych
