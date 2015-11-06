@@ -478,7 +478,7 @@ Dodaj odpowiednią instrukcję warunkową, która w przypadku gdy zmienna ``ilel
 będzie większa od zmiennej ``maksliczba`` wyświetli komunikat "Błędne dane!"
 i przerwie wykonywanie programu – użyj funkcji ``exit()``. Sprawdź działanie programu.
 
-Tetsujemy dalej. Uruchom program i zamiast liczby podaj tekst.
+Testujemy dalej. Uruchom program i zamiast liczby podaj tekst.
 Co się dzieje? Uruchom jeszcze raz, ale tym razem jako typy podaj
 wartości spoza zakresu <0;maksliczba>. Da się to zrobić?
 
